@@ -22,7 +22,8 @@ The skills can also deploy with the `gregale` CLI; install it and log in (or set
 
 ## Links
 
-- [Deploy from Antigravity](https://gregale.dev/articles/deploy-from-antigravity)
+- [Antigravity & MCP setup docs](https://gregale.dev/docs/antigravity)
+- [Deploy from Antigravity IDE guide](https://gregale.dev/articles/antigravity-ide-mcp-server-deploy)
 - [Gregale agent guide](https://gregale.dev/docs/agents)
 - [CLI & MCP setup](https://gregale.dev/docs/cli)
 
