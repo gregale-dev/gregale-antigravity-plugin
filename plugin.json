@@ -1,0 +1,28 @@
+{
+  "name": "gregale",
+  "displayName": "Gregale",
+  "version": "1.0.0",
+  "description": "Deploy, diagnose and roll back APIs, background jobs and Postgres on Gregale from Antigravity, through Gregale's hosted MCP server.",
+  "author": {
+    "name": "Gregale"
+  },
+  "homepage": "https://gregale.dev/articles/deploy-from-antigravity",
+  "repository": "https://github.com/gregale-dev/gregale-antigravity-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "gregale",
+    "deploy",
+    "hosting",
+    "serverless",
+    "postgres",
+    "mcp",
+    "rollback",
+    "firecracker"
+  ],
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Deploy this project to Gregale and verify the live response",
+    "Diagnose why my Gregale app is failing or slow",
+    "List my Gregale apps and recent deployments"
+  ]
+}
